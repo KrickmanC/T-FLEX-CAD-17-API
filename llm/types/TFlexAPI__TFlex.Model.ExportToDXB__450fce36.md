@@ -1,0 +1,21 @@
+# TFlex.Model.ExportToDXB
+
+Assembly: `TFlexAPI`
+Namespace: `TFlex.Model`
+
+## Summary
+
+Класс экспорта в формат DXB
+
+## Methods
+
+### `Export(System.String)`
+
+ID: `M:TFlex.Model.ExportToDXB.Export(System.String)`
+
+Функция экспорта документа
+
+Parameters:
+- `fileName`: Имя выходного файла
+
+Returns: Результат экспорта

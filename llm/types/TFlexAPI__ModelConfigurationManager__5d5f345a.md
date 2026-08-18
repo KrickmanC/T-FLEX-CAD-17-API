@@ -1,0 +1,3 @@
+# ModelConfigurationManager
+
+Assembly: `TFlexAPI`

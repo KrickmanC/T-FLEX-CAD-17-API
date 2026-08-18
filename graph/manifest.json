@@ -1,0 +1,72 @@
+{
+  "generated_at": "2026-06-01T15:08:16.490361+00:00",
+  "generator": "scripts/build_api_graph.py",
+  "tflex_root": "C:\\Program Files\\T-FLEX CAD 17\\Program",
+  "symbols_jsonl": "llm\\symbols.jsonl",
+  "assembly_count": 4,
+  "node_count": 38051,
+  "edge_count": 51105,
+  "counters": {
+    "assemblies": 4,
+    "types": 7062,
+    "members": 13454,
+    "api_transitions": 4606,
+    "enum_values": 2844
+  },
+  "sources": [
+    {
+      "kind": "assembly",
+      "name": "TFlexAPI.dll",
+      "path": "C:\\Program Files\\T-FLEX CAD 17\\Program\\TFlexAPI.dll",
+      "sha256": "6bdb584f8ae296c623f4e06f816eb46ea8a17ac4e2545da5659d9b1a00cd4b0c"
+    },
+    {
+      "kind": "assembly",
+      "name": "TFlexAPI3D.dll",
+      "path": "C:\\Program Files\\T-FLEX CAD 17\\Program\\TFlexAPI3D.dll",
+      "sha256": "fae81bb65c48efa4731dbff8ae991661dc620ab5f2e63734f9d4b0768a9744b0"
+    },
+    {
+      "kind": "assembly",
+      "name": "TFlexAPIData.dll",
+      "path": "C:\\Program Files\\T-FLEX CAD 17\\Program\\TFlexAPIData.dll",
+      "sha256": "93f5107382d7715d81c0b71d6e562293c29574045cbcfd5f6178285e3377e353"
+    },
+    {
+      "kind": "assembly",
+      "name": "TFlexCommandAPI.dll",
+      "path": "C:\\Program Files\\T-FLEX CAD 17\\Program\\TFlexCommandAPI.dll",
+      "sha256": "42cad53f4797aa61d2bb81ad322baf0709d418474bf9933a8089d03771840360"
+    },
+    {
+      "kind": "xml_docs",
+      "name": "TFlexAPI.xml",
+      "path": "raw\\TFlexAPI.xml",
+      "sha256": "6538dbdfd0e748e73c7208e9e34cbbbdfaa7a97cde9a5145d7c9ec8bc0354886"
+    },
+    {
+      "kind": "xml_docs",
+      "name": "TFlexAPI3D.xml",
+      "path": "raw\\TFlexAPI3D.xml",
+      "sha256": "ababc4eb4f72a16d8ec6315fd536f3032f40ffdee2d92a7bd075fa522dd07316"
+    },
+    {
+      "kind": "xml_docs",
+      "name": "TFlexAPIData.xml",
+      "path": "raw\\TFlexAPIData.xml",
+      "sha256": "bbe62e09e3c78d28d2e92491d787582896ac09a71e0e2968a8bb2bafa84a2523"
+    },
+    {
+      "kind": "xml_docs",
+      "name": "TFlexCommandAPI.xml",
+      "path": "raw\\TFlexCommandAPI.xml",
+      "sha256": "9b122b779802bc21eb6aa17bb191501f371e682bdd5c667a12aea913a00ad932"
+    },
+    {
+      "kind": "llm_symbols",
+      "name": "symbols.jsonl",
+      "path": "llm\\symbols.jsonl",
+      "sha256": "d26b86f69bec354b90516f28960a4bfee5645d06a531acf73b3f34b10efa3559"
+    }
+  ]
+}

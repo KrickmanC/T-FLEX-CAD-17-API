@@ -1,0 +1,3 @@
+# ExpandClassID
+
+Assembly: `TFlexCommandAPI`
